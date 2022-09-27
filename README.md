@@ -10,7 +10,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gittakisnani&show_icons=true&theme=radical" />
 
 ### 💻 Languages I use most of the time:
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittakisnani&layout=compact" />
 
 
 ### 💻 Libraries & Frameworks I use
