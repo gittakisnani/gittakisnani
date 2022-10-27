@@ -1,9 +1,9 @@
 # Hi There, I'm Taki 👋
 
-## I'm MERN Full Stack Developer
+## I'm MERN Full Stack Developer.
 <br />
 
-- 📚 I am constantly learning new skills and striving for progerss
+- 📚 I am constantly learning new skills and striving for progerss.
 
 
 
